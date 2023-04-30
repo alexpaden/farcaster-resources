@@ -42,3 +42,4 @@ A community currated list of open-source Farcaster documentation, SDKs, and temp
 - [backmeupplz/mintit-backend](https://github.com/backmeupplz/mintit-backend) - A bot that mints a cast as a polygon NFT for the connected Farcaster address.
 - [backmeupplz/essay](https://github.com/backmeupplz/essay) - A bot that turns a thread of casts into an easily readable image.
 - [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot) - A bot that has multiple commands (gpt, translate, hash, bookmark, cut, whois, help, thread).
+- [vinliao/warpy](https://github.com/vinliao/warpy) - The easiest way to query farcaster data locally and with english to SQL (gpt) handling.
